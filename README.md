@@ -1,5 +1,5 @@
 <h1>Job Listings</h1>
-![screencapture-localhost-3000-2022-05-02-20_52_56](https://user-images.githubusercontent.com/970143/166403504-ae14d452-8171-49e2-96d6-a486b29be5d2.png)
+<img width="942" alt="Screen Shot 2022-05-02 at 9 07 19 PM" src="https://user-images.githubusercontent.com/970143/166403709-5b470eeb-2610-4ad5-8719-5c154b5cf2da.png">
 
 # Getting Started with Create React App
 
